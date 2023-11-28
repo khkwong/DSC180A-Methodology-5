@@ -1,10 +1,9 @@
-# Capstone Example Jekyll Website Keith Kwong
+# Keith Kwong
 
-This is about as **barebones** as a Jekyll site can be. All I've done is embed a plotly plot here.
+khkwong@ucsd.edu
+Section B03, Yanyi Wang
 
-B03, Yanyi Wang
-
-## Prompt Answers:
+# Prompt Answers:
 1. jfjfj
 2. jjfj
 3. jfjfj
